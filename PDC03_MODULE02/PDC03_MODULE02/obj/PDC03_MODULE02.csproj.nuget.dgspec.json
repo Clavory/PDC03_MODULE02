@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BSIT2022-2023\\PDC30-40\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj": {}
+    "C:\\Users\\User\\Documents\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj": {}
   },
   "projects": {
-    "D:\\BSIT2022-2023\\PDC30-40\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj": {
+    "C:\\Users\\User\\Documents\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BSIT2022-2023\\PDC30-40\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj",
         "projectName": "PDC03_MODULE02",
-        "projectPath": "D:\\BSIT2022-2023\\PDC30-40\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj",
-        "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "D:\\BSIT2022-2023\\PDC30-40\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\PDC03_MODULE02\\PDC03_MODULE02\\PDC03_MODULE02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,7 +71,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

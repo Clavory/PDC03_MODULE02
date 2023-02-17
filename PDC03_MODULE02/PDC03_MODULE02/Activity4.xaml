@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03_MODULE02.Activity4">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="txtLabel"
+                Text="WELCOME"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Slider x:Name="SliderScale"
+                    BindingContext="{x:Reference txtLabel}"
+                    Value="{Binding Scale, Mode=OneWayToSource}"
+                    Maximum="10"/>
+
+            <Slider x:Name="SlideRotate"
+                    BindingContext="{x:Reference txtLabel}"
+                    Value="{Binding Rotation, Mode=OneWayToSource}"
+                    Maximum="100"/>
+
+            <Slider x:Name="SlideRotateX"
+                    BindingContext="{x:Reference txtLabel}"
+                    Value="{Binding RotationX, Mode=OneWayToSource}"
+                    Maximum="100"/>
+
+            <Slider x:Name="SlideRotateY"
+                    BindingContext="{x:Reference txtLabel}"
+                    Value="{Binding RotationY, Mode=OneWayToSource}"
+                    Maximum="100"/>
+
+            <Label BindingContext="{x:Reference SliderScale}"
+                   Text="{Binding Value, StringFormat='Scale = {0:F1}'}"
+                   VerticalTextAlignment="Center"
+                   FontSize="Large"/>
+
+            <Label BindingContext="{x:Reference SlideRotate}"
+                   Text="{Binding Value, StringFormat='Rotation = {0:F1}'}"
+                   VerticalTextAlignment="Center"
+                   FontSize="Large"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
