@@ -35,3 +35,4 @@ C:\Users\User\Documents\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\n
 C:\Users\User\Documents\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity4.xaml.g.cs
 C:\Users\User\Documents\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\View1.xaml.g.cs
 C:\Users\User\Documents\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity1.xaml.g.cs
+C:\Users\User\Documents\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity5.xaml.g.cs
